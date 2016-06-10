@@ -1,0 +1,130 @@
+.version.dribbble /* version checker */
+{
+	color: #0000E7;
+	background-color: #DBDB13;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 980px;
+	min-height: 1999.7788646262734px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 1643px;
+	width: 0.01px;
+}
+
+#pu1715
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u1715
+{
+	z-index: 2;
+	width: 1180px;
+	background-color: transparent;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1715_clip
+{
+	overflow: hidden;
+	width: 1180px;
+	height: 186px;
+}
+
+#u1715_img
+{
+	margin-top: -44px;
+	margin-bottom: -69px;
+}
+
+#u1717-4
+{
+	z-index: 4;
+	width: 490px;
+	min-height: 48px;
+	background-color: transparent;
+	line-height: 47px;
+	font-size: 39px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 204px;
+	left: 100px;
+}
+
+#u1718
+{
+	z-index: 8;
+	width: 283px;
+	background-color: transparent;
+	border-radius: 213px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 44px;
+	left: 858px;
+}
+
+#u1718 .clip_frame
+{
+	-webkit-border-radius: 213px 213px 213px 213px;
+}
+
+#u1723-4
+{
+	z-index: 14;
+	width: 671px;
+	min-height: 48px;
+	background-color: transparent;
+	line-height: 26px;
+	font-size: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 270px;
+	left: 100px;
+}
+
+#u1720-4
+{
+	z-index: 10;
+	width: 71px;
+	min-height: 29px;
+	background-color: transparent;
+	line-height: 30px;
+	font-size: 25px;
+	margin-left: 864px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 980px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

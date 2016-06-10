@@ -1,0 +1,269 @@
+.version.education /* version checker */
+{
+	color: #000006;
+	background-color: #599DA4;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 980px;
+	min-height: 1141px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 859px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1553
+{
+	z-index: 2;
+	width: 1180px;
+	background-color: transparent;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: relative;
+	margin-right: -10000px;
+	left: -100px;
+}
+
+#u1553_clip
+{
+	overflow: hidden;
+	width: 1180px;
+	height: 186px;
+}
+
+#u1553_img
+{
+	margin-top: -44px;
+	margin-bottom: -69px;
+}
+
+#u1748
+{
+	z-index: 4;
+	height: 40px;
+	background-color: #E6FCFF;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+}
+
+#u1748-bw
+{
+	z-index: 4;
+	height: 40px;
+}
+
+#u1555-4
+{
+	z-index: 5;
+	width: 490px;
+	min-height: 48px;
+	background-color: transparent;
+	line-height: 47px;
+	font-size: 39px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 204px;
+}
+
+#u1556
+{
+	z-index: 9;
+	width: 283px;
+	background-color: transparent;
+	border-radius: 213px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 44px;
+	left: 758px;
+}
+
+#u1556 .clip_frame
+{
+	-webkit-border-radius: 213px 213px 213px 213px;
+}
+
+#u1558-4
+{
+	z-index: 11;
+	width: 71px;
+	min-height: 29px;
+	background-color: transparent;
+	line-height: 30px;
+	font-size: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 327px;
+	left: 864px;
+}
+
+#u1749-4
+{
+	z-index: 15;
+	width: 128px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 28px;
+	font-size: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 26px;
+}
+
+#u1750-4
+{
+	z-index: 19;
+	width: 124px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 28px;
+	font-size: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 154px;
+}
+
+#u1751-4
+{
+	z-index: 23;
+	width: 124px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 28px;
+	font-size: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 278px;
+}
+
+#u1752-4
+{
+	z-index: 27;
+	width: 131px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 28px;
+	font-size: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 402px;
+}
+
+#u1753-4
+{
+	z-index: 31;
+	width: 131px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 28px;
+	font-size: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 533px;
+}
+
+#u1754-4
+{
+	z-index: 35;
+	width: 212px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 28px;
+	font-size: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 664px;
+}
+
+#u1755-4
+{
+	z-index: 39;
+	width: 130px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 28px;
+	font-size: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 876px;
+}
+
+#u1868
+{
+	z-index: 43;
+	width: 4px;
+	height: 889px;
+	background-color: #BBFDFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 252px;
+	left: 73px;
+}
+
+#u1869-17
+{
+	z-index: 44;
+	width: 674px;
+	min-height: 120px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 282px;
+	left: 107px;
+}
+
+#u1870-10
+{
+	z-index: 61;
+	width: 674px;
+	min-height: 120px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 455px;
+	left: 107px;
+}
+
+#u1869-2,#u1870-2
+{
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: bold;
+}
+
+#u1869-4,#u1869-6,#u1869-7,#u1869-9,#u1869-11,#u1869-13,#u1869-15,#u1870-4,#u1870-6,#u1870-8
+{
+	font-size: 14px;
+	font-style: normal;
+}
+
+body
+{
+	position: relative;
+	min-width: 980px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
